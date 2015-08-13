@@ -1,2 +1,2 @@
 ﻿# 2048
-![](https://www.baidu.com/img/bdlogo.png)  
+![](https://github.com/gdmec07131011/cocos2d-x/blob/master/rpg/image/mx.PNG?raw=true)  

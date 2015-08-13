@@ -1,2 +1,2 @@
 ﻿# 2048
-![](www.baidu.com/img/bdlogo.gif)  
+![](https://www.baidu.com/img/bdlogo.png)  

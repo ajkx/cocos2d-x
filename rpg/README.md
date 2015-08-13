@@ -1,2 +1,2 @@
 ﻿# ....
-![](https://github.com/gdmec07131011/cocos2d-x/raw/master/rpg/image/mx.png)  
+![](https://github.com/gdmec07131011/cocos2d-x/blob/master/rpg/image/mx.PNG?raw=true)  
